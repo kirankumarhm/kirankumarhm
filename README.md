@@ -10,7 +10,7 @@
 👨🏻‍💻  **About Me**  
 Having 18 years of experience in designing, developing, architecting and delivering highquality software solutions on time and within budget.
 
-💡  I like to explore new technologies and develop software solutions and quick hacks.
+💡  I like to explore new technologies and develop software solutions and quick hacks.  
 🎓  I studied Bachelor of Business Management(BBM) at the [Kuvempu University](http://www.kuvempu.ac.in/) and did Masters of Computer Applications(MCA) at the [Visvesvaraya Technological University](https://vtu.ac.in).  
 💬  Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.  
 ✉️  You can shoot me an email at kirankumarhm2004@gmail.com I'll try to respond as soon as I can.
